@@ -1,7 +1,9 @@
 # Olá, me chamo Maria Eduarda ! 
 ## Bem vindo ao meu perfil GitHub 👋
 ### Tenho 18 anos, sou de Santa Catarina e sou apaixonada por carros e coisas fofinhas! 
-<div class="tenor-gif-embed" data-postid="11165916" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hellokitty-typing-working-tap-tap-tap-gif-11165916">Hellokitty Typing GIF</a>from <a href="https://tenor.com/search/hellokitty-gifs">Hellokitty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div class="tenor-gif-embed" data-postid="7305456039700818281" data-share-method="host" data-aspect-ratio="1.27586" data-width="100%"><a href="https://tenor.com/view/cinnamoroll-gif-7305456039700818281">Cinnamoroll Sticker</a>from <a href="https://tenor.com/search/cinnamoroll-stickers">Cinnamoroll Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" />
 ## Contatos
