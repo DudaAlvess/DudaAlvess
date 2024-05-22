@@ -6,7 +6,7 @@
 </div>
 
 ## Bem vindo ao meu perfil GitHub 👋
-### Tenho 18 anos, sou de Santa Catarina e sou apaixonada por carros e coisas fofinhas! 
+### Tenho 18 anos, faço Ciências da Computação na UPB, sou de Santa Catarina e sou apaixonada por carros e coisas fofinhas! 
 
 ![cinnamoroll](https://github.com/DudaAlvess/DudaAlvess/assets/128609194/8fddfa8e-e78c-4193-aedf-b95db9163180)
 
