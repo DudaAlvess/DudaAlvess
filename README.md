@@ -1,8 +1,7 @@
 # Maria Eduarda ! 
 
 <div>
-<a href = "maria-eduarda@outlook.com"><img loading="lazy" src="https://github.com/DudaAlvess/DudaAlvess/assets/128609194/8b909a0e-653b-49e5-b269-b621515fae6f="_blank" >
-width="40" height="40" </a>
+<a href = "maria-eduarda@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="linkedin.com/in/maria-eduarda-luciano-alves/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
